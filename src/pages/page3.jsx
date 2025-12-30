@@ -1,1 +1,1 @@
-Kim Kyung-min
+console.log(Kim Kyung-min);
