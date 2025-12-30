@@ -1,5 +1,5 @@
 const Page1 = () => {
-  const arr = ["01번", "02번", "03번"]
+  const arr = ["남영준", "Nam", "Young-jun"]
   const pageN = (v, i) => <li key={i}>{v}</li>
   const list = []
   for(const i in arr) {
