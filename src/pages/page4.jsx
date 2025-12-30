@@ -1,7 +1,7 @@
+const name = "Frankie";
+
 const Frankie = () => {
-  return (
-    <h1>Frankie</h1>
-  );
+  return <h1>{name}</h1>;
 };
 
 export default Frankie;
