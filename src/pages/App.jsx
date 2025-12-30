@@ -7,13 +7,13 @@ import Page5 from './page5.jsx';
 
 function App() {
   return (
-    <ul>
+    <>
       <Page1 />
       <Page2 />
       <Page3 />
       <Page4 />
       <Page5 />
-    </ul>
+    </>
   )
 }
 
