@@ -1,1 +1,0 @@
-Kim Kyung-min

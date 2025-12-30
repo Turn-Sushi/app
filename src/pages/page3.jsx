@@ -1,0 +1,1 @@
+export const 김경민 = "Kim Kyung-min";
